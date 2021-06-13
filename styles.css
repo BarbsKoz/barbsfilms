@@ -1,0 +1,28 @@
+/* CSS */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    font-family: Hevetica;
+    cursor: pointer;
+}
+
+h2{
+    font-family: Roboto;
+}
+
+#new{
+    float: right;
+}
+
+#edit, #delete{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#tableContainer table td:last-child{
+    width: 145px;
+}
